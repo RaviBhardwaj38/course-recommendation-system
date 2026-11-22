@@ -1,0 +1,353 @@
+coursetitle,subject,level,num_lectures,content_duration
+Python for Data Science Bootcamp,Data Science,Beginner Level,150,22
+Data Analysis with Pandas and NumPy,Data Science,Beginner Level,95,12.5
+Statistics for Data Science,Data Science,Beginner Level,80,10
+R Programming Fundamentals,Data Science,Beginner Level,60,8
+SQL for Data Analysts,Data Science,Beginner Level,70,9
+Machine Learning A-Z,Data Science,Intermediate Level,300,40
+Applied Data Science with Python and Jupyter,Data Science,Intermediate Level,175,31.5
+Power BI Data Analyst Masterclass,Data Science,Intermediate Level,120,15
+Data Visualization with Tableau,Data Science,Intermediate Level,90,11
+Big Data Essentials with Spark,Data Science,Intermediate Level,110,18
+Deep Learning with TensorFlow,Data Science,Expert Level,210,34
+Advanced Machine Learning and MLOps,Data Science,Expert Level,180,45
+Natural Language Processing with Transformers,Data Science,Expert Level,140,26
+Python Programming for Beginners,Computer Science,Beginner Level,130,20
+Java Programming Complete Course,Computer Science,Beginner Level,200,35
+C Programming Basics,Computer Science,Beginner Level,75,9
+Web Development with HTML CSS and JavaScript,Computer Science,Beginner Level,160,28
+Data Structures and Algorithms in Python,Computer Science,Intermediate Level,190,30
+Database Management Systems,Computer Science,Intermediate Level,100,14
+Full Stack Web Development with React and Node,Computer Science,Intermediate Level,250,50
+Operating Systems Concepts,Computer Science,Intermediate Level,85,12
+Advanced System Design,Computer Science,Expert Level,120,24
+Cyber Security and Ethical Hacking,Computer Science,Expert Level,170,38
+Business Management Fundamentals,Business,Beginner Level,60,7
+Digital Marketing for Beginners,Business,Beginner Level,110,15
+Financial Accounting Basics,Business,Beginner Level,80,10
+Project Management Professional Prep,Business,Intermediate Level,140,22
+Business Analytics with Excel,Business,Intermediate Level,100,13
+Startup and Entrepreneurship Strategy,Business,Intermediate Level,90,12
+Corporate Finance and Valuation,Business,Expert Level,130,29
+Graphic Design Basics with Photoshop,Arts,Beginner Level,85,11
+Digital Illustration and Drawing,Arts,Beginner Level,70,9
+Music Theory for Beginners,Arts,Beginner Level,55,6
+Photography Masterclass,Arts,Intermediate Level,100,14
+UI UX Design with Figma,Arts,Intermediate Level,120,16
+Video Editing and Motion Graphics,Arts,Expert Level,150,32
+Engineering Mathematics Essentials,Engineering,Beginner Level,90,12
+Basic Electrical Engineering,Engineering,Beginner Level,75,10
+AutoCAD for Mechanical Engineers,Engineering,Intermediate Level,110,18
+Embedded Systems and Arduino,Engineering,Intermediate Level,95,15
+Robotics and Automation,Engineering,Expert Level,130,27
+Structural Analysis for Civil Engineers,Engineering,Expert Level,120,25
+Python Programming Masterclass,Data Science,Expert Level,377,49
+Complete Pandas Course,Data Science,Intermediate Level,59,11
+Advanced Pandas,Data Science,Expert Level,326,41.5
+Complete NumPy Course,Data Science,Intermediate Level,226,27.5
+NumPy Masterclass,Data Science,Expert Level,302,47.5
+Statistics Fundamentals,Data Science,Beginner Level,35,5.5
+Hands-On Statistics Projects,Data Science,Intermediate Level,230,28
+Learn Probability from Scratch,Data Science,Beginner Level,33,5.5
+Hands-On Probability Projects,Data Science,Intermediate Level,215,27.5
+Probability Masterclass,Data Science,Expert Level,451,50.5
+Mastering SQL,Data Science,Expert Level,287,44.5
+Introduction to R Programming,Data Science,Beginner Level,113,14.5
+R Programming in Practice,Data Science,Intermediate Level,162,28.5
+Learn Machine Learning from Scratch,Data Science,Beginner Level,73,8.5
+Applied Machine Learning,Data Science,Intermediate Level,255,30.5
+Deep Learning for Beginners,Data Science,Beginner Level,112,17
+Hands-On Deep Learning Projects,Data Science,Intermediate Level,115,16.5
+Introduction to Data Visualization,Data Science,Beginner Level,47,8
+Hands-On Data Visualization Projects,Data Science,Intermediate Level,218,32.5
+Professional Data Visualization Certification,Data Science,Expert Level,242,27
+Tableau for Beginners,Data Science,Beginner Level,135,16
+Applied Tableau,Data Science,Intermediate Level,227,34
+Mastering Tableau,Data Science,Expert Level,295,43
+Power BI for Beginners,Data Science,Beginner Level,81,15
+Hands-On Excel Analytics Projects,Data Science,Intermediate Level,156,23
+Applied Time Series Forecasting,Data Science,Intermediate Level,135,25
+Time Series Forecasting Masterclass,Data Science,Expert Level,197,24.5
+Natural Language Processing for Beginners,Data Science,Beginner Level,93,13.5
+Hands-On Natural Language Processing Projects,Data Science,Intermediate Level,303,36.5
+Advanced Natural Language Processing,Data Science,Expert Level,203,28
+Learn Computer Vision from Scratch,Data Science,Beginner Level,151,17
+Applied Computer Vision,Data Science,Intermediate Level,96,14
+Professional Computer Vision Certification,Data Science,Expert Level,297,40
+Apache Spark Fundamentals,Data Science,Beginner Level,80,10.5
+Complete Apache Spark Course,Data Science,Intermediate Level,79,13.5
+Apache Spark Masterclass,Data Science,Expert Level,213,42.5
+Data Cleaning in Practice,Data Science,Intermediate Level,312,37
+Data Cleaning Masterclass,Data Science,Expert Level,204,29.5
+Learn Feature Engineering from Scratch,Data Science,Beginner Level,55,8
+Feature Engineering in Practice,Data Science,Intermediate Level,87,13
+Mastering Feature Engineering,Data Science,Expert Level,284,54.5
+Recommendation Systems for Beginners,Data Science,Beginner Level,39,5
+Recommendation Systems Masterclass,Data Science,Expert Level,176,26
+A/B Testing Fundamentals,Data Science,Beginner Level,97,11.5
+A/B Testing in Practice,Data Science,Intermediate Level,103,11.5
+Learn Scikit-learn from Scratch,Data Science,Beginner Level,97,11.5
+Advanced Scikit-learn,Data Science,Expert Level,360,59.5
+Complete Streamlit Dashboards Course,Data Science,Intermediate Level,245,31
+Learn Predictive Analytics from Scratch,Data Science,Beginner Level,40,6.5
+Advanced Predictive Analytics,Data Science,Expert Level,258,49.5
+Introduction to Data Mining,Data Science,Beginner Level,35,5
+Advanced Data Mining,Data Science,Expert Level,276,46.5
+Introduction to Exploratory Data Analysis,Data Science,Beginner Level,69,13.5
+Hands-On Exploratory Data Analysis Projects,Data Science,Intermediate Level,221,38
+Learn Reinforcement Learning from Scratch,Data Science,Beginner Level,45,6
+Reinforcement Learning in Practice,Data Science,Intermediate Level,78,10.5
+Advanced Reinforcement Learning,Data Science,Expert Level,122,21
+Generative AI Fundamentals,Data Science,Beginner Level,153,18
+Applied Generative AI,Data Science,Intermediate Level,164,23
+Advanced Generative AI,Data Science,Expert Level,332,46
+Applied Java,Computer Science,Intermediate Level,154,18
+C++ Fundamentals,Computer Science,Beginner Level,106,13.5
+Hands-On C++ Projects,Computer Science,Intermediate Level,150,25
+Learn C Programming from Scratch,Computer Science,Beginner Level,90,17.5
+Applied C Programming,Computer Science,Intermediate Level,175,29
+Learn JavaScript from Scratch,Computer Science,Beginner Level,70,13
+JavaScript Masterclass,Computer Science,Expert Level,341,41
+Introduction to TypeScript,Computer Science,Beginner Level,56,11
+TypeScript in Practice,Computer Science,Intermediate Level,216,37
+Advanced TypeScript,Computer Science,Expert Level,238,33
+Applied Node.js,Computer Science,Intermediate Level,325,39.5
+Django Fundamentals,Computer Science,Beginner Level,109,16.5
+Applied Django,Computer Science,Intermediate Level,146,18
+Advanced Django,Computer Science,Expert Level,318,54
+Hands-On Flask Projects,Computer Science,Intermediate Level,292,34.5
+Flask Masterclass,Computer Science,Expert Level,210,34.5
+Data Structures Fundamentals,Computer Science,Beginner Level,66,9.5
+Hands-On Data Structures Projects,Computer Science,Intermediate Level,207,38
+Algorithms Fundamentals,Computer Science,Beginner Level,33,4.5
+Hands-On Algorithms Projects,Computer Science,Intermediate Level,205,23
+Algorithms Masterclass,Computer Science,Expert Level,223,28.5
+Introduction to Operating Systems,Computer Science,Beginner Level,52,10
+Hands-On Operating Systems Projects,Computer Science,Intermediate Level,218,28.5
+Professional Operating Systems Certification,Computer Science,Expert Level,302,39.5
+Computer Networks Fundamentals,Computer Science,Beginner Level,74,13
+Complete Computer Networks Course,Computer Science,Intermediate Level,262,30.5
+Professional Computer Networks Certification,Computer Science,Expert Level,291,35
+Introduction to Database Design,Computer Science,Beginner Level,80,11
+Complete Database Design Course,Computer Science,Intermediate Level,181,23.5
+Database Design Masterclass,Computer Science,Expert Level,279,45.5
+MongoDB Fundamentals,Computer Science,Beginner Level,48,5.5
+Hands-On MongoDB Projects,Computer Science,Intermediate Level,95,16.5
+MongoDB Masterclass,Computer Science,Expert Level,442,59.5
+Applied Git and GitHub,Computer Science,Intermediate Level,205,31.5
+Git and GitHub Masterclass,Computer Science,Expert Level,228,45.5
+Mastering Linux Administration,Computer Science,Expert Level,221,27
+Learn Cloud Computing with AWS from Scratch,Computer Science,Beginner Level,29,5
+Mastering Cloud Computing with AWS,Computer Science,Expert Level,411,46
+Learn Docker and Kubernetes from Scratch,Computer Science,Beginner Level,110,14
+Complete Docker and Kubernetes Course,Computer Science,Intermediate Level,295,37
+Professional Docker and Kubernetes Certification,Computer Science,Expert Level,413,49.5
+Learn Cyber Security from Scratch,Computer Science,Beginner Level,85,14
+Hands-On Cyber Security Projects,Computer Science,Intermediate Level,107,17
+Introduction to Android App Development,Computer Science,Beginner Level,58,7.5
+Mastering Android App Development,Computer Science,Expert Level,219,32
+Learn Flutter from Scratch,Computer Science,Beginner Level,80,10
+Mastering Flutter,Computer Science,Expert Level,333,38
+Learn Software Testing from Scratch,Computer Science,Beginner Level,154,17.5
+Applied Software Testing,Computer Science,Intermediate Level,149,24.5
+Mastering Software Testing,Computer Science,Expert Level,246,32
+Introduction to Software Engineering,Computer Science,Beginner Level,151,17.5
+Mastering Software Engineering,Computer Science,Expert Level,329,43
+Learn Object Oriented Programming from Scratch,Computer Science,Beginner Level,41,6
+Complete Object Oriented Programming Course,Computer Science,Intermediate Level,136,20
+Mastering Object Oriented Programming,Computer Science,Expert Level,259,29.5
+Web Development for Beginners,Computer Science,Beginner Level,91,11.5
+Hands-On Web Development Projects,Computer Science,Intermediate Level,87,16.5
+REST API Design for Beginners,Computer Science,Beginner Level,110,19
+Applied REST API Design,Computer Science,Intermediate Level,117,17
+REST API Design Masterclass,Computer Science,Expert Level,225,37.5
+DevOps for Beginners,Computer Science,Beginner Level,93,16.5
+DevOps in Practice,Computer Science,Intermediate Level,277,38
+Introduction to Blockchain,Computer Science,Beginner Level,38,5
+Blockchain in Practice,Computer Science,Intermediate Level,192,31
+Advanced Blockchain,Computer Science,Expert Level,374,51.5
+Learn Compiler Design from Scratch,Computer Science,Beginner Level,76,14.5
+Compiler Design in Practice,Computer Science,Intermediate Level,294,35.5
+Professional Compiler Design Certification,Computer Science,Expert Level,370,44.5
+Hands-On Marketing Projects,Business,Intermediate Level,247,28.5
+Digital Marketing Fundamentals,Business,Beginner Level,53,9
+Mastering Digital Marketing,Business,Expert Level,192,28
+Learn Finance from Scratch,Business,Beginner Level,66,9.5
+Complete Finance Course,Business,Intermediate Level,135,16.5
+Professional Finance Certification,Business,Expert Level,293,41.5
+Introduction to Accounting,Business,Beginner Level,107,15.5
+Mastering Accounting,Business,Expert Level,187,37
+Learn Human Resource Management from Scratch,Business,Beginner Level,93,15
+Complete Human Resource Management Course,Business,Intermediate Level,168,26.5
+Project Management Fundamentals,Business,Beginner Level,91,15
+Project Management in Practice,Business,Intermediate Level,197,31.5
+Applied Supply Chain Management,Business,Intermediate Level,114,16.5
+Hands-On Entrepreneurship Projects,Business,Intermediate Level,329,39.5
+Professional Entrepreneurship Certification,Business,Expert Level,128,25.5
+Business Analytics Fundamentals,Business,Beginner Level,23,4.5
+Applied Business Analytics,Business,Intermediate Level,232,29
+Advanced Business Analytics,Business,Expert Level,288,42
+Introduction to Sales Strategy,Business,Beginner Level,117,19.5
+Advanced Sales Strategy,Business,Expert Level,185,35
+Operations Management for Beginners,Business,Beginner Level,53,6.5
+Operations Management Masterclass,Business,Expert Level,185,23
+Introduction to Leadership,Business,Beginner Level,107,16.5
+Mastering Leadership,Business,Expert Level,232,31
+Business Communication for Beginners,Business,Beginner Level,110,19
+Business Communication in Practice,Business,Intermediate Level,82,14.5
+Advanced Business Communication,Business,Expert Level,271,35
+Investment Banking for Beginners,Business,Beginner Level,58,7.5
+Investment Banking Masterclass,Business,Expert Level,464,57
+Introduction to Stock Market Trading,Business,Beginner Level,78,11
+Hands-On Stock Market Trading Projects,Business,Intermediate Level,184,35
+Professional Stock Market Trading Certification,Business,Expert Level,356,43
+Complete Financial Modeling Course,Business,Intermediate Level,237,30.5
+Learn Product Management from Scratch,Business,Beginner Level,81,11
+Agile and Scrum for Beginners,Business,Beginner Level,48,5.5
+Advanced Agile and Scrum,Business,Expert Level,461,60
+E-commerce for Beginners,Business,Beginner Level,91,16
+Complete E-commerce Course,Business,Intermediate Level,214,37.5
+Mastering E-commerce,Business,Expert Level,402,58.5
+Brand Management Fundamentals,Business,Beginner Level,122,14.5
+Complete Brand Management Course,Business,Intermediate Level,162,18.5
+Learn Economics from Scratch,Business,Beginner Level,33,5.5
+Complete Economics Course,Business,Intermediate Level,298,36
+Mastering Economics,Business,Expert Level,204,35.5
+Learn Taxation from Scratch,Business,Beginner Level,112,14
+Applied Taxation,Business,Intermediate Level,256,38
+Advanced Taxation,Business,Expert Level,142,19
+Advanced Risk Management,Business,Expert Level,220,41
+Advanced Negotiation Skills,Business,Expert Level,252,45
+Hands-On Graphic Design Projects,Arts,Intermediate Level,155,22.5
+Mastering Graphic Design,Arts,Expert Level,267,41
+Applied Photoshop,Arts,Intermediate Level,219,36
+Illustrator Fundamentals,Arts,Beginner Level,104,17
+Complete Illustrator Course,Arts,Intermediate Level,244,36
+Professional Illustrator Certification,Arts,Expert Level,294,41
+Digital Painting Fundamentals,Arts,Beginner Level,160,18
+Complete Digital Painting Course,Arts,Intermediate Level,137,17
+Mastering Digital Painting,Arts,Expert Level,391,47.5
+Introduction to Drawing,Arts,Beginner Level,61,12
+Hands-On Drawing Projects,Arts,Intermediate Level,305,36
+Mastering Drawing,Arts,Expert Level,103,18.5
+Professional Photography Certification,Arts,Expert Level,248,32
+Video Editing Fundamentals,Arts,Beginner Level,147,17.5
+Hands-On Video Editing Projects,Arts,Intermediate Level,247,29
+Advanced Video Editing,Arts,Expert Level,261,44
+Motion Graphics Fundamentals,Arts,Beginner Level,159,20
+Motion Graphics in Practice,Arts,Intermediate Level,257,33
+Motion Graphics Masterclass,Arts,Expert Level,404,47
+UI UX Design for Beginners,Arts,Beginner Level,55,8.5
+Complete UI UX Design Course,Arts,Intermediate Level,220,27
+Advanced UI UX Design,Arts,Expert Level,284,43.5
+Learn Figma from Scratch,Arts,Beginner Level,103,18.5
+Hands-On Figma Projects,Arts,Intermediate Level,184,24
+Music Production Fundamentals,Arts,Beginner Level,84,15
+Hands-On Music Production Projects,Arts,Intermediate Level,244,39.5
+Learn Guitar from Scratch,Arts,Beginner Level,101,17.5
+Complete Guitar Course,Arts,Intermediate Level,84,13
+Professional Guitar Certification,Arts,Expert Level,367,59.5
+Hands-On Piano Projects,Arts,Intermediate Level,84,10
+Animation Fundamentals,Arts,Beginner Level,43,7.5
+Applied Animation,Arts,Intermediate Level,249,29
+Professional Animation Certification,Arts,Expert Level,261,51
+Introduction to Fashion Design,Arts,Beginner Level,33,5.5
+Fashion Design Masterclass,Arts,Expert Level,433,51
+Interior Design Fundamentals,Arts,Beginner Level,105,17.5
+Professional Interior Design Certification,Arts,Expert Level,314,49.5
+Calligraphy for Beginners,Arts,Beginner Level,57,6.5
+Learn 3D Modeling with Blender from Scratch,Arts,Beginner Level,28,4
+Hands-On 3D Modeling with Blender Projects,Arts,Intermediate Level,227,27.5
+Introduction to Art History,Arts,Beginner Level,85,11.5
+Art History Masterclass,Arts,Expert Level,339,45
+Typography Fundamentals,Arts,Beginner Level,79,14.5
+Typography in Practice,Arts,Intermediate Level,132,19
+Typography Masterclass,Arts,Expert Level,223,34.5
+Complete Storytelling Course,Arts,Intermediate Level,217,27.5
+Learn Engineering Mathematics from Scratch,Engineering,Beginner Level,122,14
+Hands-On Engineering Mathematics Projects,Engineering,Intermediate Level,111,16.5
+Professional Engineering Mathematics Certification,Engineering,Expert Level,170,22
+Electrical Circuits Fundamentals,Engineering,Beginner Level,30,5
+Applied Digital Electronics,Engineering,Intermediate Level,217,29.5
+Professional Digital Electronics Certification,Engineering,Expert Level,154,28
+Embedded Systems for Beginners,Engineering,Beginner Level,126,17.5
+Applied Embedded Systems,Engineering,Intermediate Level,111,20
+Introduction to Arduino,Engineering,Beginner Level,143,20
+Advanced Arduino,Engineering,Expert Level,151,23.5
+Raspberry Pi in Practice,Engineering,Intermediate Level,78,15
+Robotics for Beginners,Engineering,Beginner Level,93,11.5
+Robotics in Practice,Engineering,Intermediate Level,138,23.5
+Professional Robotics Certification,Engineering,Expert Level,327,37
+Learn Mechanical Design from Scratch,Engineering,Beginner Level,117,17.5
+Complete Mechanical Design Course,Engineering,Intermediate Level,63,12
+Advanced Mechanical Design,Engineering,Expert Level,176,23.5
+AutoCAD Fundamentals,Engineering,Beginner Level,73,10
+Complete AutoCAD Course,Engineering,Intermediate Level,101,13
+Introduction to SolidWorks,Engineering,Beginner Level,94,11
+Complete SolidWorks Course,Engineering,Intermediate Level,174,22
+Professional SolidWorks Certification,Engineering,Expert Level,298,46
+Learn Thermodynamics from Scratch,Engineering,Beginner Level,41,5
+Thermodynamics in Practice,Engineering,Intermediate Level,210,32.5
+Advanced Thermodynamics,Engineering,Expert Level,307,42.5
+Fluid Mechanics for Beginners,Engineering,Beginner Level,89,10.5
+Advanced Fluid Mechanics,Engineering,Expert Level,432,58.5
+Introduction to Civil Engineering Materials,Engineering,Beginner Level,45,6.5
+Professional Civil Engineering Materials Certification,Engineering,Expert Level,140,23
+Learn Structural Analysis from Scratch,Engineering,Beginner Level,155,17.5
+Advanced Structural Analysis,Engineering,Expert Level,331,43.5
+Control Systems for Beginners,Engineering,Beginner Level,54,7
+Hands-On Control Systems Projects,Engineering,Intermediate Level,117,20.5
+Mastering Control Systems,Engineering,Expert Level,167,21
+Applied Power Systems,Engineering,Intermediate Level,146,21.5
+Professional Power Systems Certification,Engineering,Expert Level,393,48.5
+Signal Processing for Beginners,Engineering,Beginner Level,101,18
+Advanced Signal Processing,Engineering,Expert Level,225,29.5
+Learn VLSI Design from Scratch,Engineering,Beginner Level,61,10.5
+Hands-On VLSI Design Projects,Engineering,Intermediate Level,141,23
+Mastering VLSI Design,Engineering,Expert Level,249,40
+Internet of Things for Beginners,Engineering,Beginner Level,24,4
+Applied Internet of Things,Engineering,Intermediate Level,203,33
+Mastering Internet of Things,Engineering,Expert Level,282,49.5
+Introduction to Renewable Energy,Engineering,Beginner Level,100,12
+Advanced Renewable Energy,Engineering,Expert Level,249,36.5
+Manufacturing Processes Fundamentals,Engineering,Beginner Level,94,13
+Advanced Manufacturing Processes,Engineering,Expert Level,310,35
+Learn MATLAB from Scratch,Engineering,Beginner Level,151,17.5
+MATLAB in Practice,Engineering,Intermediate Level,128,17.5
+Mastering MATLAB,Engineering,Expert Level,435,54.5
+Introduction to 3D Printing,Engineering,Beginner Level,37,5
+Applied 3D Printing,Engineering,Intermediate Level,236,37
+Automotive Engineering Masterclass,Engineering,Expert Level,165,29
+Public Speaking for Beginners,Personal Development,Beginner Level,56,7
+Complete Public Speaking Course,Personal Development,Intermediate Level,260,30.5
+Professional Public Speaking Certification,Personal Development,Expert Level,409,54.5
+Time Management for Beginners,Personal Development,Beginner Level,86,11.5
+Professional Time Management Certification,Personal Development,Expert Level,246,39.5
+Critical Thinking for Beginners,Personal Development,Beginner Level,61,10
+Critical Thinking in Practice,Personal Development,Intermediate Level,200,28.5
+Advanced Critical Thinking,Personal Development,Expert Level,304,37
+Resume Writing and Interviews Fundamentals,Personal Development,Beginner Level,94,13.5
+Professional Resume Writing and Interviews Certification,Personal Development,Expert Level,317,59.5
+Communication Skills for Beginners,Personal Development,Beginner Level,54,8
+Applied Communication Skills,Personal Development,Intermediate Level,182,21
+Professional Communication Skills Certification,Personal Development,Expert Level,242,46.5
+Study Skills Fundamentals,Personal Development,Beginner Level,26,5
+Hands-On Study Skills Projects,Personal Development,Intermediate Level,147,17.5
+Introduction to Mindfulness,Personal Development,Beginner Level,69,9.5
+Hands-On Mindfulness Projects,Personal Development,Intermediate Level,148,19.5
+Mindfulness Masterclass,Personal Development,Expert Level,376,43
+Learn Emotional Intelligence from Scratch,Personal Development,Beginner Level,91,14.5
+Emotional Intelligence in Practice,Personal Development,Intermediate Level,197,29.5
+Professional Emotional Intelligence Certification,Personal Development,Expert Level,272,31
+Learn English Speaking from Scratch,Languages,Beginner Level,62,7
+Hands-On English Speaking Projects,Languages,Intermediate Level,191,35.5
+Professional Business English Certification,Languages,Expert Level,410,55
+Introduction to IELTS Preparation,Languages,Beginner Level,54,6.5
+Learn Spanish from Scratch,Languages,Beginner Level,29,4.5
+Learn French from Scratch,Languages,Beginner Level,44,7.5
+Complete German Course,Languages,Intermediate Level,147,24
+Mastering German,Languages,Expert Level,483,58.5
+Hands-On Japanese Projects,Languages,Intermediate Level,79,11.5
+Advanced Japanese,Languages,Expert Level,339,48
+Hindi for Beginners for Beginners,Languages,Beginner Level,97,16
+Mastering Hindi for Beginners,Languages,Expert Level,190,22
